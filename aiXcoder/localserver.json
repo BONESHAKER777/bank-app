@@ -1,0 +1,36 @@
+{
+  "models": [
+    {
+      "name": "java(Java)",
+      "active": true
+    },
+    {
+      "name": "python(Python)",
+      "active": true
+    },
+    {
+      "name": "typescript(Typescript)",
+      "active": true
+    },
+    {
+      "name": "javascript(Javascript)",
+      "active": true
+    },
+    {
+      "name": "cpp(Cpp)",
+      "active": true
+    },
+    {
+      "name": "go(Go)",
+      "active": true
+    },
+    {
+      "name": "php(Php)",
+      "active": true
+    },
+    {
+      "name": "csharp(Csharp)",
+      "active": true
+    }
+  ]
+}
