@@ -21,7 +21,6 @@ public class AppUser implements UserDetails {
 
     private String firstName , lastName , email;
    private String password;
-   private String accountName;
     @OneToOne(orphanRemoval = true, cascade = CascadeType.ALL)
     private LocationAddress address;
     private LocalDateTime registrationDate;
